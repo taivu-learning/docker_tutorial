@@ -31,7 +31,7 @@ yarn install && yarn run dev"
 Use this command only:
 
 ```
-docker compose up -d
+docker-compose up -d
 ```
 
 ## Access the application
